@@ -1,6 +1,5 @@
 
-# 
-Protect Data Confidentiality for On-device Machine Learning through Split Mode
+# Protect Data Confidentiality for On-device Machine Learning through Split Mode
 
 The following are the folder descriptions and description of their contents:
 
